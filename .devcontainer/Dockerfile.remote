@@ -1,0 +1,1 @@
+FROM ghcr.io/tbistr/texlive-full:v3.0
